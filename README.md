@@ -24,7 +24,7 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
 | b1-k1-w2 FLowChart             | DONE | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | DONE | [axShare] *pw= leerlingnr.*         | Axshare link |
 
-   [readme.md]: <https://github.com/ZahraTorensma/p1.4_proj2/master/readme.md>
+   [readme.md]: <https://github.com/ZahraTorensma/veganSite/master/readme.md>
    [Debriefing]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/schriftelijkadvies.pdf>
    [PvA.pdf]: <http://23519.hosts.ma-cloud.nl/bewijzenmap/p1.4/proj/doc/planvanaanpak.pdf>
    [Urenschatting.md]: <https://github.com/ZahraTorensma/p1.4_proj2/blob/master/Urenschatting.md>
