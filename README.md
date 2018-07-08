@@ -12,7 +12,6 @@ De website is enigszins te vergelijken met www.vegansociety.com of www.vegan.org
  * dat je ook reacties kan plaatsen en met andere vegans kennis uitwisselen!
 
 ---
-#### Milestones Fase 1
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | MarkDown op github |
